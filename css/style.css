@@ -976,6 +976,7 @@ button#sidebarCollapse {
     padding: 20px;
     text-align: center;
     transition: ease all 0.5s;
+    
 }
 
 .about_section {
@@ -1014,6 +1015,9 @@ button#sidebarCollapse {
     line-height: 22px;
     font-weight: 400;
 }
+/* .feature_box{
+    background: chartreuse;
+} */
 
 .about-box {
     padding: 70px 0px;
@@ -1165,6 +1169,9 @@ button#sidebarCollapse {
 a.hvr-radial-out:hover,
 a.hvr-radial-out:focus {
     color: #fff;
+}
+.feature_box{
+    background: chartreuse;
 }
 
 
