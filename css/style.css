@@ -902,7 +902,7 @@ button#sidebarCollapse {
 }
 
 .slide_text {
-    margin-top: 7vmax;
+    margin-top: 8vmax;
     padding-left: 0;
     margin-left: 0vw;
 }
@@ -1170,9 +1170,9 @@ a.hvr-radial-out:hover,
 a.hvr-radial-out:focus {
     color: #fff;
 }
-.feature_box{
+/* .feature_box{
     background: chartreuse;
-}
+} */
 
 
 /*------------------------------------------------------------------ Services -------------------------------------------------------------------*/
