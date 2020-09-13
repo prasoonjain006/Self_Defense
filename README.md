@@ -60,4 +60,4 @@ Proposed solution.
 - JAVASCRIPT
 
 ## Snapshot of our Website
-![Snapshot of our website](images/screenshot.png)
+![Snapshot of our website](https://github.com/yash1412/Self_Defense/blob/readme/images/Screenshot.png)
